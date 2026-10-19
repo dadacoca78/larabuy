@@ -1,0 +1,2 @@
+# larabuy
+Laravel Shop Starter
